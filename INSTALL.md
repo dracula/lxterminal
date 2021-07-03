@@ -1,6 +1,6 @@
 ### [LX Terminal](https://github.com/lxde/lxterminal)
 
-This theme can be installed on [LXTerminal](https://github.com/lxde/lxterminal), the default terminal for the [LXDE](https://en.wikipedia.org/wiki/LXDE) desktop environment (bundled with [Raspberry Pi OS](https://en.wikipedia.org/wiki/Raspberry_Pi_OS), [Peppermint OS](https://en.wikipedia.org/wiki/Peppermint_OS, and [Knoppix](https://en.wikipedia.org/wiki/Knoppix)).
+This theme can be installed on [LXTerminal](https://github.com/lxde/lxterminal), the default terminal for the [LXDE](https://en.wikipedia.org/wiki/LXDE) desktop environment (bundled with [Raspberry Pi OS](https://en.wikipedia.org/wiki/Raspberry_Pi_OS), [Peppermint OS](https://en.wikipedia.org/wiki/Peppermint_OS), and [Knoppix](https://en.wikipedia.org/wiki/Knoppix)).
 
 #### Install using Git
 
@@ -14,5 +14,5 @@ Download using the [GitHub .zip download](https://github.com/dracula/lx-terminal
 
 #### Activating theme
 
-1. Add the contents of `lxterminal.conf` in `~/.config/lxterminal/`
+1. Add `lxterminal.conf` to `~/.config/lxterminal/`
 2. Restart LXTerminal (if necessary)
