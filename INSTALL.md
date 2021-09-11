@@ -6,7 +6,7 @@ This theme can be installed on [LXTerminal](https://github.com/lxde/lxterminal),
 
 If you are a git user, you can install the theme and keep up to date by cloning the repo:
 
-    $ git clone https://github.com/dracula/lxterminal.git
+    git clone https://github.com/dracula/lxterminal.git
 
 #### Install manually
 
